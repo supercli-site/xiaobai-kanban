@@ -1,7 +1,7 @@
 name: deploy
 
 # push main 后自动构建并发布到 Cloudflare Pages
-# （项目 xiaobai-kanban → xiaobai.webkubor.online）
+# （项目 xiaobai-kanban → xiaobai.supercli.site）
 #
 # 与 webkubor/blog 的配色一致：同一个 Cloudflare 账户、同一个部署方式，
 # 只是这里不需要预渲染，所以不装 chromium。
