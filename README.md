@@ -6,11 +6,11 @@
 
 
 <p align="center">
-  <a href="https://github.com/webkubor/xiaobai-kanban#提-bug--反馈"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="欢迎 PR"></a>
-  <a href="https://github.com/webkubor/xiaobai-kanban/blob/main/LICENSE"><img src="https://img.shields.io/github/license/webkubor/xiaobai-kanban?style=for-the-badge&color=gold" alt="License"></a>
-  <a href="https://github.com/webkubor/xiaobai-kanban/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/webkubor/xiaobai-kanban/deploy.yml?style=for-the-badge&color=4c9a6b" alt="CI"></a>
-  <a href="https://github.com/webkubor/xiaobai-kanban"><img src="https://img.shields.io/github/stars/webkubor/xiaobai-kanban?style=for-the-badge&color=coral" alt="Stars"></a>
-  <a href="https://github.com/webkubor/xiaobai-kanban"><img src="https://img.shields.io/badge/Tutorial-333333?style=for-the-badge" alt="技术栈"></a>
+  <a href="https://github.com/supercli-site/xiaobai-kanban#提-bug--反馈"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="欢迎 PR"></a>
+  <a href="https://github.com/supercli-site/xiaobai-kanban/blob/main/LICENSE"><img src="https://img.shields.io/github/license/supercli-site/xiaobai-kanban?style=for-the-badge&color=gold" alt="License"></a>
+  <a href="https://github.com/supercli-site/xiaobai-kanban/actions/workflows/deploy.yml"><img src="https://img.shields.io/github/actions/workflow/status/supercli-site/xiaobai-kanban/deploy.yml?style=for-the-badge&color=4c9a6b" alt="CI"></a>
+  <a href="https://github.com/supercli-site/xiaobai-kanban"><img src="https://img.shields.io/github/stars/supercli-site/xiaobai-kanban?style=for-the-badge&color=coral" alt="Stars"></a>
+  <a href="https://github.com/supercli-site/xiaobai-kanban"><img src="https://img.shields.io/badge/Tutorial-333333?style=for-the-badge" alt="技术栈"></a>
 </p>
 
 ---
@@ -674,7 +674,7 @@ gh issue create --repo webkubor/<仓库名> \
 
 ## 提 Bug / 反馈
 
-看板本身的问题，在 [Issues](https://github.com/webkubor/xiaobai-kanban/issues) 里提。
+看板本身的问题，在 [Issues](https://github.com/supercli-site/xiaobai-kanban/issues) 里提。
 **具体某个工具的问题，直接提到那个工具自己的仓库**（见上一节），不要都堆在这里——
 提对地方才有人能修。
 

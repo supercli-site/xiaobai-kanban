@@ -8,8 +8,8 @@
 > 本站有**两个入口**，真人和 AI Agent 各走一条。若你（读者）是 AI Agent，请从 `/AGENTS.md` 开始；
 > 若你正在**指导一位不懂代码的用户**，先读 `/AGENTS.md` 知道自己的执行模型，再用下面「给真人」的篇章按编号引导他。
 
-站点：https://xiaobai.webkubor.online
-仓库：https://github.com/webkubor/xiaobai-kanban
+站点：https://xiaobai.supercli.site
+仓库：https://github.com/supercli-site/xiaobai-kanban
 
 ## 品牌设计 Skill 实战
 

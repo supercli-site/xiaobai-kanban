@@ -42,7 +42,7 @@ async function main() {
     : []
 
   const manifest = {
-    site: 'https://xiaobai.webkubor.online',
+    site: 'https://xiaobai.supercli.site',
     note: '本站的机器可读入口。渲染页去掉 .md 后缀即可（/AGENTS = /AGENTS.md 的网页版）。',
     agentEntry: '/AGENTS.md',
     humanEntry: '/README.md',
