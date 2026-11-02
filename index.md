@@ -192,7 +192,7 @@ AI 编程一定要订阅 Claude Code / Codex 吗？**不用。** 国内一线模
 如果你是被用户指过来的 Agent，直接取 **`/AGENTS.md`**（纯 Markdown，没有网页包装）：
 
 ```
-https://xiaobai.webkubor.online/AGENTS.md
+https://xiaobai.supercli.site/AGENTS.md
 ```
 
 本站在每个页面路径后加 `.md` 就是它的原文；全部机器可读入口见 [`/llms.txt`](/llms.txt) 与 [`/documents.json`](/documents.json)。

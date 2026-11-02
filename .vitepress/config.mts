@@ -27,7 +27,7 @@ export default defineConfig({
   srcExclude: ['node_modules/**', 'scripts/**', 'README.en.md', '.github/**'],
 
   // 让搜索引擎发现教程与 38 个公开仓库的独立介绍页。
-  sitemap: { hostname: 'https://xiaobai.webkubor.online' },
+  sitemap: { hostname: 'https://xiaobai.supercli.site' },
 
   // ⚠️ 为什么目录页叫 catalog.md 而不是 INDEX.md：
   // macOS 的文件系统默认大小写不敏感，而首页必须是 index.md —— 于是
@@ -168,14 +168,14 @@ export default defineConfig({
 
     // 仓库在 GitHub，每页给一个「在 GitHub 编辑」入口
     editLink: {
-      pattern: 'https://github.com/webkubor/xiaobai-kanban/edit/main/:path',
+      pattern: 'https://github.com/supercli-site/xiaobai-kanban/edit/main/:path',
       text: '在 GitHub 上编辑此页'
     },
 
     footer: {
       message:
         '以 MIT 协议开源 · 让每个人都能便宜甚至免费用上 AI · <a href="/docs/about">关于我们</a>',
-      copyright: '小白看板 · xiaobai.webkubor.online'
+      copyright: '小白看板 · xiaobai.supercli.site'
     },
 
     search: { provider: 'local' },

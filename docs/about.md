@@ -145,6 +145,6 @@
 ---
 
 <div style="text-align:center;margin-top:2.5rem;color:var(--vp-c-text-3);font-size:13px">
-小白看板 · <a href="https://xiaobai.webkubor.online">xiaobai.webkubor.online</a> ·
-<a href="https://github.com/webkubor/xiaobai-kanban">GitHub</a> · MIT 协议开源
+小白看板 · <a href="https://xiaobai.supercli.site">xiaobai.supercli.site</a> ·
+<a href="https://github.com/supercli-site/xiaobai-kanban">GitHub</a> · MIT 协议开源
 </div>

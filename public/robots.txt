@@ -7,4 +7,4 @@ Allow: /documents.json
 Allow: /AGENTS.md
 Allow: /catalog.md
 
-Sitemap: https://xiaobai.webkubor.online/sitemap.xml
+Sitemap: https://xiaobai.supercli.site/sitemap.xml
