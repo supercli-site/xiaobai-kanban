@@ -181,7 +181,7 @@ DSH 的口号是 *Everything is a Plugin*，所以**先装「能装插件的插�
 <span style="font-size:10.5px;opacity:.7;text-align:center;line-height:1.5">密钥加密存<br/>用环境变量注入</span>
 </a>
 
-<a href="https://github.com/webkubor/scorecard" style="display:flex;flex-direction:column;align-items:center;gap:7px;padding:14px 8px;border:1px solid var(--vp-c-divider);border-radius:12px;text-decoration:none;color:inherit">
+<a href="https://github.com/supercli-site/scorecard" style="display:flex;flex-direction:column;align-items:center;gap:7px;padding:14px 8px;border:1px solid var(--vp-c-divider);border-radius:12px;text-decoration:none;color:inherit">
 <img src="https://cdn.jsdelivr.net/gh/webkubor/free-imgbed@main/scorecard/mark-v3.svg" alt="scorecard" height="38" />
 <span style="font-size:12.5px;font-weight:600">scorecard</span>
 <span style="font-size:10.5px;opacity:.7;text-align:center;line-height:1.5">开源项目<br/>体检报告</span>
@@ -609,7 +609,7 @@ Agent 会说：「Token 有问题」
 | [vite-plugin-agent-eyes](https://github.com/webkubor/vite-plugin-agent-eyes) | Agent 前端监控 |
 | [contrast-guard](https://github.com/webkubor/frontend-contrast-guard) | 配色对比度 + 视觉质量护栏 |
 | [voxflow](https://github.com/webkubor/voxflow) | AI 声音到 AI 音乐 |
-| [scorecard](https://github.com/webkubor/scorecard) | 开源项目九维度质检 |
+| [scorecard](https://github.com/supercli-site/scorecard) | 开源项目九维度质检 |
 
 推荐的开源工具：
 
