@@ -11,7 +11,7 @@ head:
 
 > 给自己的开源项目做一次体检：GitHub 仓库状态、npm 包、线上网页一起查，输出带证据的成熟度报告和整改清单。不是打分游戏，是告诉你「离能被别人放心用还差什么」。
 
-**仓库**：[github.com/webkubor/scorecard](https://github.com/webkubor/scorecard) · 开源项目
+**仓库**：[github.com/supercli-site/scorecard](https://github.com/supercli-site/scorecard) · 开源项目
 
 ---
 
@@ -27,7 +27,7 @@ head:
 
 安装与使用方法请以仓库 README 为准。
 
-👉 **查看完整说明**：[github.com/webkubor/scorecard](https://github.com/webkubor/scorecard)
+👉 **查看完整说明**：[github.com/supercli-site/scorecard](https://github.com/supercli-site/scorecard)
 
 ---
 
