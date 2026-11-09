@@ -81,7 +81,7 @@
 | 你遇到 | 用这个 | 直接打开 / 安装 |
 |------|------|------|
 | Token、密码不知道该放哪 | **kyvault** | [官网](https://webkubor.github.io/kyvault/) · `cargo install kyvault` |
-| 不知道项目还有哪些要补 | **scorecard** | [网页直接用](https://scorecard.webkubor.online)，不用装 |
+| 不知道项目还有哪些要补 | **scorecard** | [网页直接用](https://scorecard.supercli.site)，不用装 |
 | 要出封面 / 配图 / 表情包 | **MUSE AV** | [museav.top](https://museav.top) 注册即用 |
 | 想把微信聊天做成效果图 | **chat-mood-gen** | [wechat.webkubor.online](https://wechat.webkubor.online) |
 | Agent 改完代码看不出对不对 | **Agent Eyes** | `npm i -D vite-plugin-agent-eyes` |

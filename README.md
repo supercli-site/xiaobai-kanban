@@ -320,7 +320,7 @@ DSH 的口号是 *Everything is a Plugin*，所以**先装「能装插件的插�
 
 | 你遇到 | 工具 | 解决什么 | 怎么装 |
 |---|---|---|---|
-| 不知道自己的开源项目还缺什么 | [**scorecard**](https://scorecard.webkubor.online) | 粘个 GitHub 链接就出体检报告 | **不用装**，网页直接用 |
+| 不知道自己的开源项目还缺什么 | [**scorecard**](https://scorecard.supercli.site) | 粘个 GitHub 链接就出体检报告 | **不用装**，网页直接用 |
 | 代码写多了，死代码堆成山 | [**deadcode-reaper**](https://github.com/webkubor/deadcode-reaper-skill) | 扫出死代码并清理，还你干净的上下文 | 让 Agent 读仓库说明装 |
 | 想给项目做品牌标识 | [**logo-brand-designer**](https://github.com/webkubor/logo-brand-designer) · [看实际设计案例](./docs/brand-design.md) | 品牌色来源、风格对比、透明底 SVG 与深浅小尺寸评审 | Agent skill，见仓库 README |
 | 界面好不好看，说不清 | [**facet**](https://github.com/webkubor/facet) | 把 Markdown 一键变成 PDF / 长图 / 演讲页，也能给界面做结构化体检 | `npx` 直接跑 |
@@ -516,7 +516,7 @@ glab version && gh --version
 | 「Token 存哪才安全」 | 「装 kyvault，帮我把 Token 加密存好」 | [kyvault](https://github.com/webkubor/kyvault) |
 | 「这个配色是不是看不清」 | 「用 contrast-guard 检查对比度」 | [contrast-guard](https://github.com/webkubor/frontend-contrast-guard) |
 | 「我的页面为什么这么丑」 | 「用 contrast-guard measure 量一下，跟 linear.app 比」 | [contrast-guard](https://github.com/webkubor/frontend-contrast-guard) `measure` |
-| 「这个开源项目靠谱吗」 | 「用 scorecard 给它打个分」 | [scorecard.webkubor.online](https://scorecard.webkubor.online) |
+| 「这个开源项目靠谱吗」 | 「用 scorecard 给它打个分」 | [scorecard.supercli.site](https://scorecard.supercli.site) |
 | 「我这个月 AI 花了多少钱」 | 「装 usage-statusline」 | [usage-statusline](https://github.com/webkubor/claude-usage-statusline) |
 
 > 💡 研发主力用 [Superpowers](https://github.com/obra/superpowers)（258K⭐ 社区标准），密钥 / 前端监控 / 视觉质量用 webkubor 生态补位。
