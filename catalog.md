@@ -85,7 +85,7 @@
 | 要出封面 / 配图 / 表情包 | **MUSE AV** | [museav.top](https://museav.top) 注册即用 |
 | 想把微信聊天做成效果图 | **chat-mood-gen** | [wechat.webkubor.online](https://wechat.webkubor.online) |
 | Agent 改完代码看不出对不对 | **Agent Eyes** | `npm i -D vite-plugin-agent-eyes` |
-| 配色对比度总被说看不清 | **contrast-guard** | `npm i -g contrast-guard` |
+| 配色对比度总被说看不清 | **ui-craft** | `npm i -g ui-craft` |
 | 发新版后用户还在用旧页面 | **refresh-guard** | `npm i -D vite-plugin-refresh-guard` |
 | 想批量做竖版短视频 | **reel-kit** | `npm i -g @kubor/reel-kit` |
 | 想在 Mac 上做语音 / 播客 / BGM | **VoxFlow** | [仓库](https://github.com/webkubor/voxflow) |

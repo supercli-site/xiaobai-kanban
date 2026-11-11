@@ -227,7 +227,7 @@ kyvault run --env GITLAB_TOKEN=gitlab_token -- git push -u origin main
 | 工具 | 用途 | Agent 怎么用 |
 |------|------|-------------|
 | [kyvault](https://github.com/webkubor/kyvault) | 密钥管理 | `kyvault run --env TOKEN=gitlab_token -- git push` — 别名注入，明文不暴露 |
-| [contrast-guard](https://github.com/webkubor/contrast-guard) | 配色 / 视觉护栏 | `contrast-guard check` 查对比度并算出该改成多少；`contrast-guard measure <url>` 量页面视觉质量 |
+| [ui-craft](https://github.com/webkubor/ui-craft) | 配色 / 视觉护栏 | `ui-craft check` 查对比度并算出该改成多少；`ui-craft measure <url>` 量页面视觉质量 |
 | [Agent Eyes](https://github.com/webkubor/vite-plugin-agent-eyes) | 前端监控 | `npm install -D vite-plugin-agent-eyes` + `autoInstrument()` — Agent 实时看到前端报错 |
 
 ---

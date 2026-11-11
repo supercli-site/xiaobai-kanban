@@ -44,7 +44,7 @@ head:
 | AI 写的前端报错了，但页面一片空白 | [**前端自愈遥测 vite-plugin-agent-eyes**](./vite-plugin-agent-eyes.md) | 把错误时的 DOM 快照和截图攒给 Agent 读 |
 | 想给自己的开源项目做体检 | [**体检报告 scorecard**](./scorecard.md) | 输出带证据的成熟度报告和整改清单 |
 | 代码越写越臃肿，上下文不够用 | [**死代码清理 deadcode-reaper-skill**](./deadcode-reaper-skill.md) | 自动找出并清掉没人用的代码 |
-| 配色看着不专业 / 对比度不过审 | [**配色护栏 frontend-contrast-guard**](./frontend-contrast-guard.md) | 检查对比度并提示该怎么调整 |
+| 配色看着不专业 / 对比度不过审 | [**配色护栏 ui-craft**](./ui-craft.md) | 检查对比度并提示该怎么调整 |
 | 想做 AI 对话界面但流式输出总乱 | [**流式接收包 ai-sse-kit**](./ai-sse-kit.md) | SSE 分帧、协议适配、可取消的消息 patch |
 | 记不住命令行工具叫什么 | [**CLI 工具目录 supercli**](./supercli.md) | 按用途搜 CLI，带社区 Stars 排名 |
 | 要让 Agent 自己动手操作网页 | [**轻量浏览器 lite-browser**](./lite-browser.md) | CDP 操控真实浏览器，会话可交接给人 |
@@ -76,7 +76,7 @@ head:
 |---|---|
 | [**kyvault** 密钥库](./kyvault.md) | AES-256-GCM 加密存密钥，环境变量注入子进程 |
 | [**device-passport** 设备身份护照](./device-passport.md) | 可复现的设备指纹，用于浏览器自动化与测试环境 |
-| [**frontend-contrast-guard** 配色护栏](./frontend-contrast-guard.md) | 检查对比度、支持 OKLCH，并在 CI 中提示调整方案 |
+| [**ui-craft** 配色护栏](./ui-craft.md) | 检查对比度、支持 OKLCH，并在 CI 中提示调整方案 |
 
 ### 🛠️ 开发与调试
 
