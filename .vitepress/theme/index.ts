@@ -6,6 +6,7 @@
  *   2. 全站挂一个客服悬浮入口，让读者在任何教程页都能找到帮助
  *   3. 在首页使用项目已有的橙色品牌横幅，保持视觉一致
  */
+import { trackPageView } from './analytics'
 import DefaultTheme from 'vitepress/theme'
 import { h, ref, onMounted, onUnmounted } from 'vue'
 import type { Theme } from 'vitepress'
@@ -75,6 +76,13 @@ const SupportFab = {
 
 export default {
   extends: DefaultTheme,
+  enhanceApp({ router }) {
+    if (typeof window === 'undefined') return
+    router.onAfterRouteChanged = () => trackPageView()
+  },
+  setup() {
+    onMounted(() => trackPageView())
+  },
   Layout() {
     return h(DefaultTheme.Layout, null, {
       'layout-bottom': () => h(SupportFab),
